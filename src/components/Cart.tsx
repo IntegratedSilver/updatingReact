@@ -29,7 +29,7 @@ const Cart = () => {
                     </li>
                 ))}
             </ul>
-            <button onClick={handleClick}>Update Quantity of Product 1 to 2</button>
+            <button onClick={handleClick}>Update Cart</button>
         </div>
     );
 };
